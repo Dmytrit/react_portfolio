@@ -1,12 +1,12 @@
 import React from 'react';
+import CV from '../../assets/cv_25.10.2022.pdf';
 
 const CTA = () => {
   return (
     <div className="cta">
       <a 
-        href="https://drive.google.com/drive/folders/1SFEPDvVHyp6xqXmCkyTtcnwpHQBCSKdb"
-        target="_blank"
-        rel="noreferrer"
+        href={CV}
+        download
         className='btn'
       >
         Download CV
