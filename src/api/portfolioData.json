@@ -14,13 +14,5 @@
     "technologies": "HTML, SCSS, BEM, JavaScript",
     "githubUrl": "https://github.com/Dmytrit/MIAMI-layout",
     "demo": "https://dmytrit.github.io/MIAMI-layout/"
-  },
-  {
-    "id": 3,
-    "image": "https://cdn.pixabay.com/photo/2021/03/28/13/00/lists-6131213_960_720.jpg",
-    "title": "React App To Do list",
-    "technologies": "TypeScript, React, React-router, CSS",
-    "githubUrl": "https://github.com/Dmytrit/react_TO_DO_LIST",
-    "demo": "https://dmytrit.github.io/react_todo-app/"
   }
 ]
