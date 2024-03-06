@@ -3,7 +3,7 @@ import CTA from './CTA';
 import HeaderSocials from './HeaderSocials';
 import './Header.css';
 
-import m1_1 from '../../assets/m1_1.png'
+import m1_1_web from '../../assets/m1_1_web.webp'
 
 const Header = () => {
   return (
@@ -16,7 +16,7 @@ const Header = () => {
       <HeaderSocials />
 
       <div className="me">
-        <img src={m1_1} alt="me" />
+        <img src={m1_1_web} alt="me" />
       </div>
 
       <a href="#contact" className="scroll__down">Scroll Down</a>

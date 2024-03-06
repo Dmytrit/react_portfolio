@@ -3,7 +3,7 @@ import './About.css';
 import { FaAward } from 'react-icons/fa';
 import { VscFolderLibrary } from 'react-icons/vsc';
 
-import m2_2 from '../../assets/m2_2.jpg';
+import m2_2_web from '../../assets/m2_2_web.webp';
 
 const About = () => {
   return (
@@ -55,7 +55,7 @@ const About = () => {
 
         <div className="about__me">
           <div className="about__me-image">
-            <img src={m2_2} alt="About me" />
+            <img src={m2_2_web} alt="About me" />
           </div>
         </div>
       </div>
