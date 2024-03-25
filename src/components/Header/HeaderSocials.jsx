@@ -21,7 +21,7 @@ const HeaderSocials = () => {
         <FaGithub/>
       </a>
       <a 
-        href="https://djinni.co/q/9162f85026/"
+        href="https://djinni.co/q/185616cc11/"
         target="_blank"
         rel='noreferrer'
       >

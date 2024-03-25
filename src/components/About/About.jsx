@@ -3,7 +3,7 @@ import './About.css';
 import { FaAward } from 'react-icons/fa';
 import { VscFolderLibrary } from 'react-icons/vsc';
 
-import m2_2_webp from '../../assets/m2_2_web.webp';
+import m2_2_webp from '../../assets/m2_2_webp.webp';
 
 const About = () => {
   return (

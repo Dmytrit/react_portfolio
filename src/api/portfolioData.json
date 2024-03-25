@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "image": "../assets/to_do_01.jpg",
+    "image": "https://ddlqvo8fho737.cloudfront.net/images/516edfecd8b860a110f1222c3f1a6c44.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3TJ3V4Z4TLCHRDFE%2F20240323%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20240323T082825Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=5a815a46a137519f9c4a3f47d277b83167991985c913a6258bc622c029cb9e4c",
     "title": "Todo List",
     "technologies": "TypeScript, React, Redux toolkit, Tailwindcss",
     "githubUrl": "https://github.com/Dmytrit/react-ts-todo-list",

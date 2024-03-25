@@ -1,5 +1,6 @@
 import React from 'react';
-import CV from '../../assets/CV_Mostovyi_Dmytro_Frontend_remote_13.02.2024';
+import CV from '../../assets/CV_Mostovyi_Dmytro_Frontend_remote.pdf';
+// import CV from '../../assets/avatar1.jpg';
 
 const CTA = () => {
   return (

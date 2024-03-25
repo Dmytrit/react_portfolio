@@ -3,7 +3,7 @@ import CTA from './CTA';
 import HeaderSocials from './HeaderSocials';
 import './Header.css';
 
-import m1_1_webp from '../../assets/m1_1_web.webp'
+import m1_1_webp from '../../assets/m1_1_webp.webp'
 
 const Header = () => {
   return (
