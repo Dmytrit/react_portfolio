@@ -14,5 +14,13 @@
     "technologies": "HTML, SCSS, BEM, JavaScript",
     "githubUrl": "https://github.com/Dmytrit/MIAMI-layout",
     "demo": "https://dmytrit.github.io/MIAMI-layout/"
+  },
+  {
+    "id": 3,
+    "image": "../assets/to_do_01.jpg",
+    "title": "Todo List",
+    "technologies": "TypeScript, React, Redux toolkit, Tailwindcss",
+    "githubUrl": "https://github.com/Dmytrit/react-ts-todo-list",
+    "demo": "https://dmytrit.github.io/react-ts-todo-list/"
   }
 ]
